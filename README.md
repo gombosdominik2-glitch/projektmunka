@@ -1,1 +1,1 @@
-# projektmunka
+# Közös GitHub gyakorlat
